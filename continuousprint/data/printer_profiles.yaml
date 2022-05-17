@@ -1,10 +1,10 @@
 PrinterProfile:
-  - name: "Generic"
-    make: "Generic"
-    model: "Generic"
-    width: 150
-    depth: 150
-    height: 150
+  - name: "Neptune2"
+    make: "Elegoo"
+    model: "Neptune2s"
+    width: 220
+    depth: 220
+    height: 250
     formFactor: "rectangular"
     selfClearing: false
     defaults:
